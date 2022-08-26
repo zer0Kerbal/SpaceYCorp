@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | SpaceY Corp (null)                                                |
+| modName    | SpaceY Corp (SYC)                                                |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -12,7 +12,7 @@
 
 ## Version 0.9.99.0-prerelease - `<Final Inspection>` edition
 
-* 21 Aug 2022
+* 25 Aug 2022
 * Release for Kerbal Space Program
 
 ### Creation by zer0Kerbal
@@ -22,23 +22,11 @@
 * Agent
   * [Agents.cfg] v1.0.0.0
 * Flags
-  * [RSR.dds]
-  * [RSR_flag1.png]
-  * [RSR_flag2.png]
-  * [RSR_flag3.png]
-  * [RSR_LOGO_scratched.png]
-  * [RSR_LOGO_scratched2.png]
-  * [RSR_LOGO1.png]
-  * [RSR_LOGO2.png]
-  * [RSR_RSR.png]
-  * [RSRbadge.png]
-  * [RSRbadgeFlag.png]
-  * [RSRbadgeFlagBlack.png]
-  * [RSRcircle.png]
-  * uses assets from RustyStarRockets, see Attributions.md for details
+  * [SpaceY.png]
+  * uses assets from SpaceY Lifters, see Attributions.md for details
 * Create
   * HeroLogo
-* closes #6 - Create HeroLogo.png
+* closes #26 - Create HeroLogo.png
 
 ### Localization
 
@@ -46,9 +34,9 @@
   * <en-us.cfg>
   * [readme.md] v2.1.2.0
   * [quickstart.md] v1.0.1.1
-* closes #7 - Create Localization directory and contents
-* updates #10 - Localization Master
-* closes #11 - English <en-us.cfg>
+* closes #25 - Create Localization directory and contents
+* updates #6 - Localization Master
+* closes #7 - English <en-us.cfg>
 
 ### docs/
 
@@ -61,14 +49,14 @@
   * [Localizations.md] v1.1.7.0
   * [Notices.md] v1.0.1.0
   * [Why.md] v1.1.0.0
-* closes #5 - Create GitHub Pages
+* closes #24 - Create GitHub Pages
 
 ### Status
 
 * Issues
-* closes #8 - Rusty Star Shipyards (RSS) 0.9.99.0-prerelease `<Final Inspection>` edition
-  * closes #4 - 0.9.99.0 Create Social Media Presence
-  * closes #3 - 0.9.99.0 Create Documentation
+  * closes #1 - SpaceY Corp (SYC) 0.9.99.0-prerelease `<Articles of Incorporation>` edition
   * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Create Documentation
+  * closes #4 - 0.9.99.0 Create Social Media
 
 ---
