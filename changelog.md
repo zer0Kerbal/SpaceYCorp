@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3093)                                 |
 | ckan       | SpaceYCorp                                                        |
 
-## Version 0.9.99.0-prerelease - `<Final Inspection>` edition
+## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
 
 * 25 Aug 2022
 * Release for Kerbal Space Program
