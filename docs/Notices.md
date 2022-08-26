@@ -22,11 +22,24 @@ based upon work by LisiasT -->
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
+* "SpaceY" is trademark of NecroBones (Orvidius)
+* "SpaceY Technologies Corporation" is trademark of NecroBones (Orvidius)
 * "SpaceYCorp" is trademark of zer0Kerbal
+* "SpaceY Corp" is trademark of zer0Kerbal
+* "SYTC" is trademark of zer0Kerbal
+* "SYC" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
+
+## SpaceY Technologies Corporation (SYTC)
+
+* "SpaceY Technologies Corporation (SYTC)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+
+## SpaceY Corporation (SYC)
+
+* "SpaceY Technologies (SYC)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo)
 
