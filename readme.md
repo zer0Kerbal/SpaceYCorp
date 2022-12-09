@@ -26,13 +26,13 @@ An original creation by *KerbSimpleCo*
 ### See more
 
 >* [GitHub Pages][MOD:pages]
->* [Marketing Slicks][MOD:markt]
->* [Parts Catalog][MOD:parts] for part pictures
 >* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
-### YouTube reviews by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+### [SpaceY Corp (SYC)][SYC] supports the following addons
+
+#### YouTube reviews by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![KSP Mods - SpaceY Heavy Lifter](https://img.youtube.com/vi/8jn7dBEVwtg/0.jpg)](https://www.youtube.com/watch?v=8jn7dBEVwtg)
 
@@ -69,11 +69,10 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
-### Recommends
+### Recommends other [SpaceY Corp (SYC)][SYC] mods
 
-* Other [SpaceY Corp (SYC)][SYC] mods:
-  * [SpaceY Lifters (SYL)][SYL]
-  * [SpaceY Expanded (SYE)][SYE]
+* [SpaceY Lifters (SYL)][SYL]
+* [SpaceY Expanded (SYE)][SYE]
 
 ### Suggests
 
