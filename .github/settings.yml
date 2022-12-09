@@ -1,8 +1,8 @@
-# settings.yml 1.0.9.6
+# settings.yml 1.0.9.7
 # this file: CC BY-ND 4.0
 # zer0Kerbal
 # created 01 Jan 2022
-# updated 04 Aug 2022
+# updated 01 Oct 2022
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: agency,agents,flags,space,necrobones,orvidius,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
+  topics: agency,agents,flags,space,necrobones,orvidius,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk,contributions-welcome,hacktoberfest,mods
 
 # Labels: define labels for Issues and Pull Requests
 labels:
@@ -229,20 +229,48 @@ labels:
     color: e6e6e6
     description: No action will be taken at this time
 
+  - name: "hacktoberfest"
+    color: ff9900
+    description: flag for entry into hacktoberfest
+
+  - name: "hacktoberfest-accepted"
+    color: ff9900
+    description: flag for stating PR is accepted as appropriate for hacktoberfest
+
+  - name: "good-first-issue"
+    color: AEF923
+    description: flag for inclusion into good-first-issues listing
+
+  - name: "contributions-welcome"
+    color: AEF923
+    description: flag for inclusion into contributions-welcome listing
+
+  - name: "beginner-friendly"
+    color: AEF923
+    description: flag for inclusion into beginner-friendly listing
+
+  - name: "invalid"
+    color: FFFF00
+    description: flagged as invalid
+
+  - name: "spam"
+    color: EB212E
+    description: spam flag
+
 # Milestones: define milestones for Issues and Pull Requests
-milestones:
-  - title: 0.9.99.0-prerelease
-    description: progress toward 1.0.0.0-prerelease
-    state: open
+# milestones:
+#   - title: 0.9.99.0-prerelease
+#     description: progress toward 1.0.0.0-prerelease
+#     state: open
 
-  - title: 1.0.0.0-release
-    description: progress toward 1.0.0.0-release
-    state: open
+#   - title: 1.0.0.0-release
+#     description: progress toward 1.0.0.0-release
+#     state: open
 
-  - title: Localization - Master
-    description: progress toward total localization
-    state: open
+#   - title: Localization - Master
+#     description: progress toward total localization
+#     state: open
 
-  - title: Localization - English <en-us.cfg>
-    description: progress toward English <en-us.cfg> localization
-    state: open
+#   - title: Localization - English <en-us.cfg>
+#     description: progress toward English <en-us.cfg> localization
+#     state: open
