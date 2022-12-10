@@ -132,14 +132,9 @@ agent, flags, parts, variants, config
 [MOD:discu]: https://github.com/zer0Kerbal/SpaceYCorp/discussions "Discussions"
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceYCorp Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SpaceYCorp/issues "Issues"
-[MOD:markt]: https://zer0kerbal.github.io/SpaceYCorp/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/SpaceYCorp/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/SpaceYCorp/PartsCatalog "Parts Catalog"
 [MOD:pages]: https://zer0kerbal.github.io/SpaceYCorp "GitHub Pages"
-
-<!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/mod.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 [LIC:url]: https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
