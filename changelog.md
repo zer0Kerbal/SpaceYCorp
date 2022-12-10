@@ -10,6 +10,34 @@
 | spacedock  | (https://spacedock.info/mod/3093)                                 |
 | ckan       | SpaceYCorp                                                        |
 
+## Version 1.0.0.0-release - `<Initial Public Offering>` edition
+
+* Released
+  * 08 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Added
+  * variant theme support
+    * <themes.cfg> v2.0.0.0
+  * universal editor search terms
+    * <SpaceYCorp.cfg> v1.0.0.0
+* Updated
+  * added theme strings
+    * <en-us.cfg> v1.0.1.0
+    * updates #7 - English <us-en.cfg>
+    * updates #6 - Localization - Master
+  * converted all images to .dds
+  * hero/cover logo (missing central image)
+    * updates #26 - Create HeroLogo.png
+* Status/Issues
+  * closes #30 - SpaceY Corp (SYC) 1.0.0.0-release `<Initial Public Offering>` edition
+  * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #32 - 1.0.0.0 Update Documentation
+  * closes #33 - 1.0.0.0 Update Social Media
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Articles of Incorporation>` edition
 
 * 25 Aug 2022
