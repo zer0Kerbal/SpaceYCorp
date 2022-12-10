@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3093)                                 |
 | ckan       | SpaceYCorp                                                        |
 
-## Version 1.0.0.0-prerelease - `<Initial Public Offering>` edition
+## Version 1.0.0.0-release - `<Initial Public Offering>` edition
 
 * Released
   * 08 Dec 2022
