@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | SpaceY Corp (SYC)                                                |
+| modName    | SpaceY Corp (SYC)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -9,6 +9,28 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
 | spacedock  | (https://spacedock.info/mod/3093)                                 |
 | ckan       | SpaceYCorp                                                        |
+
+## Version 1.0.1.0-release - `<Seal of the Corporation>` edition
+
+* Released
+  * 17 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.1.0
+
+* fix texture and agent related issues reported in KSP.log
+* fix typo
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #36 - SpaceY Corp (SYC) 1.0.1.0-release `<Seal of the Corporation>` edition
+  * closes #37 - 1.0.1.0 Additional Tasks
+  * closes #38 - [BUG] missing agency scaled
+  * updates #6 - Localization - Master
+
+---
 
 ## Version 1.0.0.0-release - `<Initial Public Offering>` edition
 
