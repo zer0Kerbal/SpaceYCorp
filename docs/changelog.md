@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 SpaceY Corp (SYC)
@@ -13,7 +12,7 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | SpaceY Corp (SYC)                                                |
+| modName    | SpaceY Corp (SYC)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | NecroBones and zer0Kerbal                                         |
@@ -22,6 +21,28 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
 | spacedock  | (https://spacedock.info/mod/3093)                                 |
 | ckan       | SpaceYCorp                                                        |
+
+## Version 1.0.1.0-release - `<Seal of the Corporation>` edition
+
+* Released
+  * 17 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.1.0
+
+* fix texture and agent related issues reported in KSP.log
+* fix typo
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #36 - SpaceY Corp (SYC) 1.0.1.0-release `<Seal of the Corporation>` edition
+  * closes #37 - 1.0.1.0 Additional Tasks
+  * closes #38 - [BUG] missing agency scaled
+  * updates #6 - Localization - Master
+
+---
 
 ## Version 1.0.0.0-release - `<Initial Public Offering>` edition
 
@@ -101,3 +122,4 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #4 - 0.9.99.0 Create Social Media
 
 ---
+
