@@ -10,6 +10,32 @@
 | spacedock  | (https://spacedock.info/mod/3093)                                 |
 | ckan       | SpaceYCorp                                                        |
 
+## Version 1.0.2.0-release - `<Corporate Directory>` edition
+
+* Released
+  * 20 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.2.0
+
+* integrate localization strings from SYL+SYE
+
+### Changes 1.0.2.0
+
+* Update
+  * <en-us.cfg> v1.0.2.0
+  * relocate common use strings from SYL and SYE into SYC
+
+### Status 1.0.2.0
+
+* Issues
+  * closes #41 - SpaceY Corp (SYC) 1.0.2.0-release `<Corporate Directory>` edition
+  * closes #42 - 1.0.2.0 Additional Tasks
+  * updates #6 - Localization - Master
+
+---
+
 ## Version 1.0.1.0-release - `<Seal of the Corporation>` edition
 
 * Released
