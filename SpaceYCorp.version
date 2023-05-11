@@ -1,5 +1,5 @@
 {
-	"NAME"			 : "SpaceY Corp (SYC)",
+	"NAME"			 : "SpaceY Corporation (SYC)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/SpaceYCorp.version",
 	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/SpaceYCorp/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/changelog.md",
@@ -13,7 +13,7 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 0,
-		"PATCH" : 2,
+		"PATCH" : 3,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :

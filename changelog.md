@@ -7,8 +7,35 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYCorp)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
-| spacedock  | (https://spacedock.info/mod/3093)                                 |
-| ckan       | SpaceYCorp                                                        |
+
+## Version 1.0.3.0-release - `<Chairman of the Board>` edition
+
+* Released
+  * 26 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.3.0
+
+* adds additional localization strings from SYL
+
+### Changes 1.0.3.0
+
+* Update
+  * <en-us.cfg> v1.0.3.0
+  * adds additional localization strings from SYL
+  * HeroLogo
+* updates #6 - Localization - Master
+* updates #7 - English <en-us.cfg>
+* updates #26 - Create HeroLogo.png
+
+### Status 1.0.3.0
+
+* Issues
+  * closes #45 - SpaceY Corp (SYC) 1.0.3.0-release `<Chairman of the Board>` edition
+  * closes #46 - 1.0.3.0 Additional Tasks
+
+---
 
 ## Version 1.0.2.0-release - `<Corporate Directory>` edition
 
