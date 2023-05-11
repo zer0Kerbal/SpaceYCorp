@@ -19,8 +19,21 @@ CC BY-ND 4.0 by zer0Kerbal
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYCorp)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
-| spacedock  | (https://spacedock.info/mod/3093)                                 |
-| ckan       | SpaceYCorp                                                        |
+
+## Version 1.0.3.0-release - `<Chairman of the Board>` edition
+
+* Released
+  * 26 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+
+* Issues
+  * closes #45 - SpaceY Corp (SYC) 1.0.3.0-release `<Chairman of the Board>` edition
+  * closes #46 - 1.0.3.0 Additional Tasks
+  * updates #6 - Localization - Master
+
+---
 
 ## Version 1.0.2.0-release - `<Corporate Directory>` edition
 
