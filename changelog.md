@@ -31,6 +31,7 @@
   * closes #45 - SpaceY Corp (SYC) 1.0.3.0-release `<Chairman of the Board>` edition
   * closes #46 - 1.0.3.0 Additional Tasks
   * updates #6 - Localization - Master
+  * updates #7 - English <en-us.cfg>
 
 ---
 
