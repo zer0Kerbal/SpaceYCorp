@@ -15,6 +15,17 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Change Summary 1.0.3.0
+
+* adds additional localization strings from SYL
+
+### Changes 1.0.3.0
+
+* Update
+  * <en-us.cfg> v1.0.3.0
+  * adds additional localization strings from SYL
+
+### Status 1.0.3.0
 
 * Issues
   * closes #45 - SpaceY Corp (SYC) 1.0.3.0-release `<Chairman of the Board>` edition
