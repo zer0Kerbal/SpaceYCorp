@@ -1,5 +1,5 @@
 <!-- readme.md v1.0.3.0
-SpaceY Corp (SYC)
+SpaceY Corporation (SYC)
 created: 25 Aug 2022
 updated: 11 May 2023
 
@@ -9,11 +9,11 @@ updated: 15 Mar 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![SpaceY Corp (SYC)][SHD:mod]][CURSFG:url]  
+[![SpaceY Corporation (SYC)][SHD:mod]][CURSFG:url]  
 [![KSP version][SHD:ksp]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-# [SpaceY Corporation (SYC)[CURSFG:url]]
+# [SpaceY Corporation (SYC)][CURSFG:url]
 
 ***Space, why? Because it's there!***
 
