@@ -52,7 +52,7 @@ An original creation by *KerbSimpleCo*
 
 ### Help Wanted
 
-> * Logo(s) for SpaceY Corporation
+> * Logo(s) for [SpaceY Corporation (SYC)][CURSFG:url]
 > * *lorem ipsum* text for the Agency description
 > * Additional flags
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
@@ -73,7 +73,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * [SpaceY Corporation (SYC)][SYC]
   * [SpaceY Lifters (SYL)][SYL] stock-balanced large rocket parts, 5m parts, large SRBs
-  * [SpaceY Expanded (SYE)][SYE]
+  * [SpaceY Expanded (SYX)][SYX]
 
 ### Suggests
 
@@ -90,7 +90,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [Mkerb Science Instruments][MSI]
 * [Near Future Rovers (NFR)][NFR]
 * [OhScrap! (OHS)][OHS]
-* [On Demand Fuel Cells (ODFC)][ODFC]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OScience Laboratories (OSL)][OSL]
 * [Papa Kerballini's Pizza (PIZZA)][PIZZA]
@@ -120,7 +119,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Supports
 
 * [ModularManagement (MM)][MM] or [Module Manager][m-m]
-* [TweakScale][twk]
+* [TweakScale (twk)][twk]
 
 ### Tags
 
@@ -229,7 +228,7 @@ Comment, click, like, share, up-vote, subscribe
 [SEA]:  https://www.curseforge.com/kerbal/ksp-mods/SeaDragon "SeaDragon (SEA)"
 
 [SYC]:  https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation "SpaceY Corporation (SYC)"
-[SYE]:  https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded "SpaceY Expanded (SYE)"
+[SYX]:  https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded "SpaceY Expanded (SYX)"
 [SYL]:  https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
 
 [FTPL]: https://www.curseforge.com/kerbal/ksp-mods/ftpltd "Fuel Tanks Plus Ltd (FTPL)"
