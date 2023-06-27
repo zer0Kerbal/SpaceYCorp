@@ -20,7 +20,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYCorp)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
 
-## Version 1.0.4.0-release - `<Спасибо evanisrael` edition
+## Version 1.0.4.0-release - `<Спасибо evanisrael>` edition
 
 * Released
   * 26 Jun 2023
