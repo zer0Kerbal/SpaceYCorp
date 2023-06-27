@@ -21,7 +21,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 SpaceY Corp's agent, flags, and common config files used in all SpaceY add-ons for Kerbal Space Program.
 
-## By [`zer0Kerbal`][zer0Kerbal], inspired by, and with content licensed from [`NecroBones`][auth-link]
+## By [`zer0Kerbal`][zedK], inspired by, and with content licensed from [`NecroBones`][auth-link]
 
 An original creation by *KerbSimpleCo*
 
@@ -141,7 +141,7 @@ agent, flags, parts, variants, config
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Original Author (ROOT) (0): [`zer0Kerbal`][zer0Kerbal]
+#### Original Author (ROOT) (0): [`zer0Kerbal`][zedK]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
@@ -153,7 +153,7 @@ agent, flags, parts, variants, config
 >
 >* see [Notices][notic] for more *legal Mumbo Jumbo*
 
-### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
+### How to support this and other great mods by [`zer0Kerbal`][zedK]
 
 Comment, click, like, share, up-vote, subscribe
 
@@ -196,7 +196,7 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- links -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+[zedK]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
