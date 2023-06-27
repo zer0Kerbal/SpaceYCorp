@@ -8,7 +8,62 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYCorp)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
 
-SpaceYCorp.cfg v1.0.2.0
+## Version 1.0.4.0-release - `<Спасибо evanisrael` edition
+
+* Released
+  * 26 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.4.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 1.0.4.0
+
+#### Config 1.0.4.0
+
+* Update
+  * SpaceYCorp.cfg v1.0.2.0
+    * correct search from sye to syx
+
+#### Localization 1.0.4.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #14 - Russian (Русский) <ru.cfg>
+* updates #6 - Localization - Master
+* updates #7 - English <en-us.cfg>
+
+#### Documentation 1.0.4.0
+
+* Update
+  * [Attributions.md] v1.0.4.0
+  * [Localizations.md] v1.0.4.0
+  * [readme.md] v1.0.4.0
+  * [ReleaseLayout.md] 1.0.4.0
+* Add
+  * [Flags.md] 1.0.1.0
+
+#### Status 1.0.4.0
+
+* Issues
+  * closes #49 - SpaceY Corp (SYC) 1.0.4.0-release `<Спасибо evanisrael>` edition
+  * closes #50 - 1.0.4.0 Additional Tasks
+
+---
+
 ## Version 1.0.3.0-release - `<Chairman of the Board>` edition
 
 * Released
