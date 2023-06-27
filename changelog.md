@@ -2,12 +2,13 @@
   
 | modName    | SpaceY Corp (SYC)                                                 |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYCorp)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp)           |
 
+SpaceYCorp.cfg v1.0.2.0
 ## Version 1.0.3.0-release - `<Chairman of the Board>` edition
 
 * Released
